@@ -1,6 +1,6 @@
 **Privacy Policy**
 
-Safchain Automation LLC built the Puma Messenger and Containner ML as Free apps. This SERVICE is provided by Safchain Automation LLC at no cost and is intended for use as is.
+Safchain Automation LLC built the Puma Messenger and Container ML as Free apps. This SERVICE is provided by Safchain Automation LLC at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
 
